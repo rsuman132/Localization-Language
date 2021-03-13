@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="title">హలో ప్రపంచం</string>
+    <string name="select_language">భాషను ఎంచుకోండి</string>
+    <string name="cancel">రద్దు చేయండి</string>
+</resources>
